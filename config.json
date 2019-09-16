@@ -1,0 +1,21 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri": "mysql+pymysql://root:@localhost/hkr_blog",
+		"prod_uri": "mysql+pymysql://root:@localhost/hkr_blog",
+		"fb_url":"https://facebook.com/learnwithhkr",
+		"tw_url":"https://twitter.com/learnwithhkr",
+		"gh_url":"https://github.com/learnwithhkr",
+		"blog_name":"Learn With HKR...",
+		"tag_line":"Learn new thing with HKR...",
+		"gmail-user":"hkrhasan8010@gmail.com",
+		"gmail-password":"hkr9971@3",
+		"about_text": "Hi my name is HKR and I create programming tutorials and I am a good boy",
+		"no_of_posts": 3,
+		"login_image":"hkr.png",
+    	"admin_user":"hkr",
+    	"admin_password": "hkr9971",
+    	"upload_location":"H:\\notes\\python\\Flask In python\\static\\img"
+	}
+}
